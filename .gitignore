@@ -1,0 +1,7 @@
+node_modules
+dist
+.DS_Store
+# local AI tooling, not part of the app
+.agents/
+.claude/
+skills-lock.json
